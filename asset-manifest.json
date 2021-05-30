@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Natalia256/goit-react-hw-03-image-finder/static/css/main.a5c35829.chunk.css",
+    "main.js": "/Natalia256/goit-react-hw-03-image-finder/static/js/main.fb26411b.chunk.js",
+    "main.js.map": "/Natalia256/goit-react-hw-03-image-finder/static/js/main.fb26411b.chunk.js.map",
+    "runtime-main.js": "/Natalia256/goit-react-hw-03-image-finder/static/js/runtime-main.f3a247a9.js",
+    "runtime-main.js.map": "/Natalia256/goit-react-hw-03-image-finder/static/js/runtime-main.f3a247a9.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/Natalia256/goit-react-hw-03-image-finder/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.b0b8f133.chunk.js": "/Natalia256/goit-react-hw-03-image-finder/static/js/2.b0b8f133.chunk.js",
+    "static/js/2.b0b8f133.chunk.js.map": "/Natalia256/goit-react-hw-03-image-finder/static/js/2.b0b8f133.chunk.js.map",
+    "index.html": "/Natalia256/goit-react-hw-03-image-finder/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/Natalia256/goit-react-hw-03-image-finder/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.a5c35829.chunk.css.map": "/Natalia256/goit-react-hw-03-image-finder/static/css/main.a5c35829.chunk.css.map",
+    "static/js/2.b0b8f133.chunk.js.LICENSE.txt": "/Natalia256/goit-react-hw-03-image-finder/static/js/2.b0b8f133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a247a9.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.b0b8f133.chunk.js",
+    "static/css/main.a5c35829.chunk.css",
+    "static/js/main.fb26411b.chunk.js"
+  ]
+}
